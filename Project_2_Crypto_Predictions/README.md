@@ -1,5 +1,5 @@
 #  Project 2: Predicting Cryptocurrency Prices
-By: Alex, James, Saydee, Rinat
+By: Alex, James, Saydee
 ## 1. Introduction
 
 
